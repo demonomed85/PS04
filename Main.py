@@ -1,8 +1,5 @@
 from selenium import webdriver
 from urllib.parse import urlencode
-import random
-import time
-from pynput import keyboard
 from selenium.webdriver.common.by import By
 
 request = input('Введите запрос: ')
